@@ -1,0 +1,10 @@
+/.idea/
+/batchnews.mv.db
+/batchnews.trace.db
+/logfile.log
+/news-logic.iml
+/spring-shell.log
+/batch-news/batch-news.iml
+/batch-news/batchnews.mv.db
+/batch-news/batchnews.trace.db
+/batch-news/data.mv.db
